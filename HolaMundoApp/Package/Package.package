@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package dslVersion="1.0.0.0" 
+        Id="0bbd01f8-e2ce-42fb-8aa6-224eb997cf45" 
+        solutionId="0bbd01f8-e2ce-42fb-8aa6-224eb997cf45" 
+        xmlns="http://schemas.microsoft.com/VisualStudio/2008/SharePointTools/PackageModel" 
+        name="HolaMundoApp"
+        sharePointProductVersion="15.0">
+  <features>
+        <featureReference itemId="d4f002fb-20cd-4862-91b2-33be234c370d" />
+  </features>
+</package>
